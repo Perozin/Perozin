@@ -53,8 +53,9 @@
   
 <p>💬 Ask me about ...</p>
 
-<div></div>
--![Img more than 1000 words](https://github.com/Perozin/Perozin/assets/47696277/1ebae380-6e3c-4244-a6f7-81c21bc1e5c2)
+<div>
+    https://www.canva.com/templates/EAGTd2-uzRs-white-aesthetic-motivation-mobile-video/
+</div>
 
 <div align="center"><a href="https://github.com/Perozin">
             <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Perozin&layout=compact&langs_count=7&theme=dracula"/>
