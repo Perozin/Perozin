@@ -2,14 +2,18 @@
 
 ## <div>My name is Marcio and my nickname is Perusin!</div>
 <!-- **P3RUSIN/MARCIO PEROZIN** is a ✨ _special_ ✨ repository GitHub profile.-->
+<div align="center">
 
 [![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid) 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
+<div></div>
+
 <p>🔭 I am currently in a career transition, aiming to work as a full-stack developer, data analysis and data science ...</p>
+
 <p>🌱 I am currently dedicating myself to learning the following tools and technologies: ...</p>
 
-<div > 
+<div align="center"> 
     <table>
         <tr>
             <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" height="40" width="40" /></td>   
@@ -45,9 +49,10 @@
 </div>
            
 <p>👯 My intention is to be able to collaborate with the development of applications that help improve the quality of life of people and companies. ...</p>
+
 <p>📫 How to reach me ...</p>
 
-<div>
+<div align="center">
     <a href = "mailto:marcioperozin@gmail.com/"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>        <a href="https://www.linkedin.com/in/marcio-perozin-58162334/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  </div>
   
