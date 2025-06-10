@@ -53,9 +53,8 @@
   
 <p>💬 Ask me about ...</p>
 
-<div>
-    https://www.canva.com/templates/EAGTd2-uzRs-white-aesthetic-motivation-mobile-video/
-</div>
+
+![Design sem nome](https://github.com/user-attachments/assets/43637172-e4f7-4857-b595-7d61a21381b8)
 
 <div align="center"><a href="https://github.com/Perozin">
             <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Perozin&layout=compact&langs_count=7&theme=dracula"/>
