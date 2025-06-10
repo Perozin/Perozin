@@ -1,7 +1,7 @@
 # <div>👋 Hello! Welcome to my Github profile.</div>
 
 ## <div>My name is Marcio and my nickname is Perusin!</div>
-<!-- **P3RUSIN/MARCIO PEROZIN** is a ✨ _special_ ✨ repository GitHub profile.-->
+** This ** is a ✨ _special_ ✨ repository GitHub profile.
 
 <div>
 
@@ -59,13 +59,13 @@
   
 <p>💬 Ask me about ...</p>
 
-<div  align="center">
+<div>
 
 ![Inserir um pouquinho de texto](https://github.com/user-attachments/assets/51b24117-f1e4-47e1-b526-ae9623be0a32)
 
 </div>
 
-<div align="center"><a href="https://github.com/Perozin">
+<div><a href="https://github.com/Perozin">
             <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Perozin&layout=compact&langs_count=7&theme=dracula"/>
             <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Perozin&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
