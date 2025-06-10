@@ -53,9 +53,8 @@
   
 <p>💬 Ask me about ...</p>
 
-<div>![Img more than 1000 words](https://github.com/Perozin/P3RUSINMARCIO/assets/47696277/1ebae380-6e3c-4244-a6f7-81c21bc1e5c2)</div>
--
-
+<div></div>
+-![Img more than 1000 words](https://github.com/Perozin/Perozin/assets/47696277/1ebae380-6e3c-4244-a6f7-81c21bc1e5c2)
 
 <div align="center"><a href="https://github.com/Perozin">
             <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Perozin&layout=compact&langs_count=7&theme=dracula"/>
