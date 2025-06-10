@@ -9,7 +9,7 @@
 <p>🔭 I am currently in a career transition, aiming to work as a full-stack developer, data analysis and data science ...</p>
 <p>🌱 I am currently dedicating myself to learning the following tools and technologies: ...</p>
 
-<div align="center"> 
+<div > 
     <table>
         <tr>
             <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" height="40" width="40" /></td>   
