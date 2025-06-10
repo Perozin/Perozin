@@ -1,4 +1,3 @@
-
 # <div>👋 Hello! Welcome to my Github profile.</div>
 
 ## <div>My name is Marcio and my nickname is Perusin!</div>
@@ -55,7 +54,7 @@
 <p>💬 Ask me about ...</p>
 
 
-- ![Img more than 1000 words](https://github.com/Perozin/P3RUSINMARCIO/assets/47696277/1ebae380-6e3c-4244-a6f7-81c21bc1e5c2) 
+-![Img more than 1000 words](https://github.com/Perozin/P3RUSINMARCIO/assets/47696277/1ebae380-6e3c-4244-a6f7-81c21bc1e5c2) 
 
 
 <div align="center"><a href="https://github.com/Perozin">
