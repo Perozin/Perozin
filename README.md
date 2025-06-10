@@ -53,8 +53,7 @@
   
 <p>💬 Ask me about ...</p>
 
-
-![Design sem nome](https://github.com/user-attachments/assets/43637172-e4f7-4857-b595-7d61a21381b8)
+<div>![Inserir um pouquinho de texto](https://github.com/user-attachments/assets/51b24117-f1e4-47e1-b526-ae9623be0a32)</div>
 
 <div align="center"><a href="https://github.com/Perozin">
             <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Perozin&layout=compact&langs_count=7&theme=dracula"/>
