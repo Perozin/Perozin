@@ -53,7 +53,7 @@
   
 <p>💬 Ask me about ...</p>
 
-<div>
+<div  align="center">
 
 ![Inserir um pouquinho de texto](https://github.com/user-attachments/assets/51b24117-f1e4-47e1-b526-ae9623be0a32)
 
