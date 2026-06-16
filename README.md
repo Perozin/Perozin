@@ -69,9 +69,9 @@
 
 </div>
 
-<div><a href="https://github.com/Perozin">
-            <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Perozin&layout=compact&langs_count=7&theme=dracula"/>
-            <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Perozin&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<div><a href="https://github.com/MarcioPerusin">
+            <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcioPerusin&layout=compact&langs_count=7&theme=dracula"/>
+            <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=MarcioPerusin&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
 
